@@ -8,15 +8,15 @@ const data = [
     id: 1,
     image: IMG1,
     title: "E-Commerce Website",
-    github: "https://github.com",
-    demo: "https://dribbble.com"
+    github: "https://github.com/anandakumar0012/E-commerce_Sweet-Sounds",
+    demo: "https://e-commerce-sweet-sounds.vercel.app"
   },
   {
     id: 2,
     image: IMG2,
     title: "Whatsapp Clone",
-    github: "https://github.com",
-    demo: "https://dribbble.com"
+    github: "https://github.com/anandakumar0012/WhatsApp_Clone",
+    demo: "https://whatsapp-mern-a9e9b.web.app/"
   }
 ]
 

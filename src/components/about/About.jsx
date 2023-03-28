@@ -22,7 +22,7 @@ function about() {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1+ Years</small>
+              <small>2+ Years</small>
             </article>
 
             <article className="about__card">
@@ -38,10 +38,10 @@ function about() {
             </article>
           </div>
           <p>
-            Results-driven Software Trainee with 1 year-10 months of experience in website development. Selfmotivated and ready to learn advanced technologies. Helping build asset management
+            Results-driven Software Trainee with 2 year of experience in website development. Self motivated and ready to learn advanced technologies. Helping build asset management
             applications and self-learned front end technologies by creating websites.
           </p>
-          <a href="#" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
     </section>
